@@ -212,6 +212,13 @@ uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 
 ---
 
+## 📚 Dataset & References
+
+### Dataset
+- https://universe.roboflow.com/mahmoud-m-hdyxu/x-ray-airport-prohibited-items
+
+---
+
 ## 🔒 Security Notes
 
 - All credentials are loaded from **environment variables** — never hardcoded
