@@ -20,7 +20,7 @@ A full-stack **AI-powered security platform** for automated baggage scanning. Co
 
 | Safe State | Danger State Detected |
 |---|---|
-| ![Safe](images/safe_state.png) | ![Danger](images/danger_state.png) |
+| ![Safe](images/SAFE.jpg) | ![Danger](images/DANGER.jpg) |
 
 ---
 
