@@ -52,6 +52,13 @@ Detected threats trigger:
 - PostgreSQL
 - WebSocket
 
+### Frontend
+- Flask
+- PyWebView
+
+### Deployment
+- Railway
+
 ## Team
 
 - Harshal Dhavan
@@ -69,9 +76,4 @@ Detected threats trigger:
 - Testing & Debugging
 - System Validation
 
-### Frontend
-- Flask
-- PyWebView
 
-### Deployment
-- Railway
