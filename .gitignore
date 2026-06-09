@@ -216,3 +216,59 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Secrets — never commit
+.env
+
+# Runtime data
+detections.db
+scanner.log
+static/detections/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+dist/
+build/
+*.spec
+
+# Model weights (large binary files — host separately)
+*.pt
+*.onnx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# YOLO training outputs
+runs/
+results/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# Detection snapshots
+static/detections/
+detections/
+
+# Environment files
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
