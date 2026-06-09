@@ -191,7 +191,6 @@ uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 - **Training:** 35 epochs · 640×640 · NVIDIA RTX 2060 · COCO pretrained weights
 - **Augmentation:** Brightness, rotation, horizontal flip, sharpening, mosaic
 
-> ⚠️ **Model weights (`best.pt`) are not included** in this repo due to file size. Download from [Google Drive / HuggingFace — link here] and place in `ai-engine/`.
 
 ---
 
